@@ -1,2 +1,2 @@
-# PythonAssignment-1
-Certified Python Programming (Saylani) - Assignment - 1
+# PythonAssignments
+Certified Python Programming (Saylani) - Assignments 1 and 2
